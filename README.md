@@ -1,4 +1,3 @@
 # Pytorch-Projects
-Computer Vision and Text Processing
-
-Implementation of ANN,RNN,LSTM,GRU,BERT,TRANSFROMERS
+Implementation of ANN,CNN,RNN,LSTM,GRU,BERT,TRANSFROMERS
+Computer Vision with Transformers and Text Processing
